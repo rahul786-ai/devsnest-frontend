@@ -1,0 +1,16 @@
+  
+h1,p
+{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1
+{
+
+    color: rgb(42, 9, 230);
+}
+
+p
+{
+    font-size: 17px;
+}
